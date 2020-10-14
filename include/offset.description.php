@@ -1,5 +1,5 @@
 <h2>About the Split Rim Offset Calculator</h2>
-<p><img src="/tools/split-rim.jpg" width="300" alt="Split Rim (3-piece wheel)" /></p>
+<p><img src="/split-rim.jpg" width="300" alt="Split Rim (3-piece wheel)" /></p>
 <p>
   The split rim offset calculator allows you to calculate the new width and offset of your 3-piece (split rim) 
   wheels when you change the inner barrel and/or outer lip.</p>
